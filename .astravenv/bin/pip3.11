@@ -1,4 +1,4 @@
-#!/home/teodorrk/Projects/Python/Astra_db_bot/.astravenv/bin/python3.11
+#!/home/teodorrk/Projects/Python/Astra_db_bot/.astravenv/bin/python
 # -*- coding: utf-8 -*-
 import re
 import sys
